@@ -1,43 +1,27 @@
-# Spotlight
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+# Roman Jarmukhametov's Portfolio Website
 
-## Getting started
+Welcome to the repository of my personal portfolio website. Here, you'll find a comprehensive overview of my work, experiences, and thoughts as a dedicated front-end developer from Kazakhstan.
 
-To get started with this template, first install the npm dependencies:
+## Technology Stack
 
-```bash
-npm install
-```
+-   **Front-end**: React & Next.js
+-   **Content**: MDX
+-   **Styling**: TailwindCSS
 
-Next, create a `.env.local` file in the root of your project and set the `NEXT_PUBLIC_SITE_URL` variable to your site's public URL:
+## Features
 
-```
-NEXT_PUBLIC_SITE_URL=https://example.com
-```
+-   **Home**: A vibrant introduction that sets the tone for my digital presence.
+-   **About**: Delve into my history, the shifts in my professional path, and what currently inspires me.
+-   **Projects**: A curated showcase of projects, each representing a unique challenge and learning experience.
+-   **Uses**: An in-depth exploration of the tools, software, and technologies that empower my daily work.
+-   **Articles**: My personal space to reflect on coding intricacies, share insights, and guide fellow developers through the evolving tech landscape.
 
-Next, run the development server:
+## Feedback & Contributions
 
-```bash
-npm run dev
-```
+Your feedback and suggestions are invaluable. If you feel there's room for improvement or spot any inconsistencies, don't hesitate to open an issue or submit a pull request. Collaborations and constructive critiques are always welcome!
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-## Customizing
+----------
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
-
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [MDX](https://mdxjs.com) - the MDX documentation
-# portfolio
+Thank you for stopping by, and I'm excited for you to journey through my professional narrative!
