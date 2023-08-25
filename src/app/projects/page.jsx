@@ -5,6 +5,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoIdeaflow from '@/images/logos/ideaflow.svg'
 import logoItext from '@/images/logos/itext.svg'
+import logoPortfolio from '@/images/logos/person.svg'
 
 
 // Project data containing details for each project
@@ -23,6 +24,14 @@ const projects = [
     link: { href: 'https://github.com/RomanJarmukhametov/itext-redesign', label: 'github.com' },
     logo: logoItext,
   },
+ {
+    name: 'My Portfolio',
+    description:
+      'The repository of my personal portfolio website where you will find a comprehensive overview of my work, experiences, and thoughts',
+    link: { href: 'https://github.com/RomanJarmukhametov/portfolio', label: 'github.com' },
+    logo: logoPortfolio,
+  },
+ 
   
 ]
 
