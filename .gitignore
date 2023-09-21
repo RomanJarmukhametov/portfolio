@@ -35,4 +35,6 @@ Thumbs.db
 *.pdb
 *.opendb
 
+**/.DS_Store
+
 # End of file

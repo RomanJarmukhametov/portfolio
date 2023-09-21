@@ -31,6 +31,13 @@ const projects = [
     link: { href: 'https://github.com/RomanJarmukhametov/portfolio', label: 'github.com' },
     logo: logoPortfolio,
   },
+ {
+    name: 'Image Gallery',
+    description:
+      'An elegant image gallery built with Nuxt3 and Tailwind CSS, demonstrating advanced features like dynamic routing and state management',
+    link: { href: 'https://github.com/RomanJarmukhametov/image-gallery', label: 'github.com' },
+    logo: logoPortfolio,
+  },
  
   
 ]
