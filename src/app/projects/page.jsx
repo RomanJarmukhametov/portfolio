@@ -21,7 +21,7 @@ const projects = [
     name: 'iText Translation Agency',
     description:
       'Corporate website for iText Translation Agency, a translation agency based in Kazakhstan, with multiple language support.',
-    link: { href: 'https://github.com/RomanJarmukhametov/itext-redesign', label: 'github.com' },
+    link: { href: 'https://github.com/RomanJarmukhametov/itext-content-v2', label: 'github.com' },
     logo: logoItext,
   },
  {
